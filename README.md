@@ -1,6 +1,7 @@
 # 🌲🔥 Forest Fire Detection using Deep Learning
 
-[[![Forest Fire](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Wildfire_nasa.jpg/1200px-Wildfire_nasa.jpg)](https://www.bing.com/images/search?view=detailV2&ccid=CIhsQtPc&id=99768806C116B140029D83062B882CC4797331A7&thid=OIP.CIhsQtPc7v1rG9q-igzoUQHaEI&mediaurl=https%3a%2f%2fwww.hutanhujan.org%2fphotos%2farticle%2fwide%2fxl%2fx2%2fimg-5851.jpg&exph=862&expw=1544&q=kebakaran+hutan+di+indonesia&simid=608052685881360106&FORM=IRPRST&ck=21CBE34075A9B3BAB76359E08A4A0F7F&selectedIndex=10&itb=0)](https://github.com/Alfajri711/Forest-Fire-Detection/blob/main/kebakaran%20hutan.jpg)
+![kebakaran hutan2](https://github.com/user-attachments/assets/c990d6ad-468e-426a-ba0d-980dfce01ef1)
+
 
 This project leverages deep learning to build a **forest fire detection system** using a Convolutional Neural Network (CNN). The model is trained on a dataset of fire and non-fire images, enabling it to distinguish between the two with high accuracy. The project is deployed using **Streamlit Cloud**, providing an interactive web-based interface for testing and predictions.
 
